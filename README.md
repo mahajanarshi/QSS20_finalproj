@@ -6,4 +6,4 @@ Our data is too big to upload to github, but our main datasets are as follows:
     - 2018 twitter df - https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset
     - 2020 twitter df - https://www.kaggle.com/datasets/joseguzman/climate-sentiment-in-twitter
     - 2022 twitter df - https://www.kaggle.com/datasets/die9origephit/climate-change-tweets
- - Natural Disasters Information from EMDAT
+ - Natural Disasters Information from EMDAT - https://www.emdat.be/
