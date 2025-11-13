@@ -7,3 +7,6 @@ Our data is too big to upload to github, but our main datasets are as follows:
     - 2020 twitter df - https://www.kaggle.com/datasets/joseguzman/climate-sentiment-in-twitter
     - 2022 twitter df - https://www.kaggle.com/datasets/die9origephit/climate-change-tweets
  - Natural Disasters Information from EMDAT - https://www.emdat.be/
+ - World Bank Dataset, GDP per Capita - https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+
