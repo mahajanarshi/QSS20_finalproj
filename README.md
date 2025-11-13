@@ -1,6 +1,6 @@
 # QSS20_finalproj
 
-Our data is too big to upload to github, but our main datasets are as follows:
+Our main datasets are as follows:
  - The Climate Change Twitter Dataset - https://www.kaggle.com/datasets/deffro/the-climate-change-twitter-dataset
  - Twitter datasets:
     - 2018 twitter df - https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset
